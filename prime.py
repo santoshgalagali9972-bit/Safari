@@ -8,3 +8,5 @@ if count == 2:
     print("prime")
 else:
     print("not")
+
+print("Prime or not")
